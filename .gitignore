@@ -9,6 +9,8 @@ libtool
 /.deps
 /.libs
 *~
+poptrie_test_basic
+poptrie_test_basic6
 
 # Prerequisites
 *.d
