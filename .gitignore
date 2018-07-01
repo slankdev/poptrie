@@ -1,4 +1,11 @@
+COPYING
+INSTALL
+config.h
+config.log
+config.status
+libtool
 
+/Makefile
 /.deps
 /.libs
 *~
